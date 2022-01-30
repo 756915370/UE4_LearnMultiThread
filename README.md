@@ -38,3 +38,19 @@ TaskGraph适合有依赖关系的多线程任务。**指定使用哪个线程的
 AsyncTask系统实现的多线程与你自己字节继承FRunnable实现的原理相似，还可以利用UE4提供的线程池。当使用多线程不满意时也可以调用**StartSynchronousTask改成主线程执行**。
 
 **AsyncTask方法是TaskGraph的简单版本。需要有返回值和回调函数的时候使用Async方法。Async性能较差没事不用它**。
+
+***
+### 学习资料
+[《Exploring in UE4》多线程机制详解[原理分析]](https://zhuanlan.zhihu.com/p/38881269)  
+[UE4/UE5的TaskGraph](https://cloud.tencent.com/developer/article/1897046)  
+[b站：【合集】UE4 C++进阶[进行中]](https://www.bilibili.com/video/BV14p4y1a7nj?p=7)  
+[C++ decltype类型推导完全攻略](http://c.biancheng.net/view/7151.html)  
+[C++11完美转发及实现方法详解](http://c.biancheng.net/view/7868.html)  
+[2w字 + 40张图带你参透并发编程！ ](https://www.cnblogs.com/cxuanBlog/p/13523033.html)  
+***
+关于作者
+- 我是**水曜日鸡**，喜欢ACG的游戏程序员。曾参与索尼中国之星项目《硬核机甲》的开发。 目前在某大厂做UE4项目。
+
+CSDN博客：[https://blog.csdn.net/j756915370](https://blog.csdn.net/j756915370)  
+知乎专栏：[https://zhuanlan.zhihu.com/c_1241442143220363264](https://zhuanlan.zhihu.com/c_1241442143220363264)  
+游戏同行聊天群：891809847
