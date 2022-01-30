@@ -2,6 +2,9 @@
  这个工程展示了使用ue4里的各种多线程的方式。有三个场景和三个蓝图。
  ![在这里插入图片描述](https://img-blog.csdnimg.cn/93440312c5e3415eaa89fc4ef7ad2c1b.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBA5rC05puc5pel6bih,size_15,color_FFFFFF,t_70,g_se,x_16#pic_center)
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/dd05be9f0b0c43f79b01426dc71ed86a.png#pic_center)
+
+具体讲解文章：[【UE·引擎篇】Runnable、TaskGraph、AsyncTask、Async多线程开发指南](https://zhuanlan.zhihu.com/p/463272214)
+
 ### Runnable
 **Bp_Tast_Runnable**的功能为：
 - 从自定义Actor子类**ATestRunnableActor**里获取一个数字，然后在多线程里实现一个计数器，当计数器大于这个数字时，线程退出。
