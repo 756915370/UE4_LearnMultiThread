@@ -41,12 +41,12 @@ AsyncTask系统实现的多线程与你自己字节继承FRunnable实现的原�
 
 ***
 ### 学习资料
-[《Exploring in UE4》多线程机制详解[原理分析]](https://zhuanlan.zhihu.com/p/38881269)  
-[UE4/UE5的TaskGraph](https://cloud.tencent.com/developer/article/1897046)  
-[b站：【合集】UE4 C++进阶[进行中]](https://www.bilibili.com/video/BV14p4y1a7nj?p=7)  
-[C++ decltype类型推导完全攻略](http://c.biancheng.net/view/7151.html)  
-[C++11完美转发及实现方法详解](http://c.biancheng.net/view/7868.html)  
-[2w字 + 40张图带你参透并发编程！ ](https://www.cnblogs.com/cxuanBlog/p/13523033.html)  
+- [《Exploring in UE4》多线程机制详解[原理分析]](https://zhuanlan.zhihu.com/p/38881269)  
+- [UE4/UE5的TaskGraph](https://cloud.tencent.com/developer/article/1897046)  
+- [b站：【合集】UE4 C++进阶[进行中]](https://www.bilibili.com/video/BV14p4y1a7nj?p=7)  
+- [C++ decltype类型推导完全攻略](http://c.biancheng.net/view/7151.html)  
+- [C++11完美转发及实现方法详解](http://c.biancheng.net/view/7868.html)  
+- [2w字 + 40张图带你参透并发编程！ ](https://www.cnblogs.com/cxuanBlog/p/13523033.html)  
 ***
 关于作者
 - 我是**水曜日鸡**，喜欢ACG的游戏程序员。曾参与索尼中国之星项目《硬核机甲》的开发。 目前在某大厂做UE4项目。
